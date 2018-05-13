@@ -1,5 +1,5 @@
 // Code goes here
-import {score, cardFees} from './myFile.js';
+import {score, cardFees} from './file.js';
 
 
 console.log(score);
